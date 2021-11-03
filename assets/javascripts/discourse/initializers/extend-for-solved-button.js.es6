@@ -244,7 +244,7 @@ export default {
             openTag: "span",
             closeTag: "span",
             title: I18n.t("topic_statuses.solved.help"),
-            icon: "far-check-square"
+            icon: "far-check-square-emoji"
           });
         } else if (
           this.topic.can_have_answer &&
