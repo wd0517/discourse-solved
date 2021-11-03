@@ -25,7 +25,7 @@ zh_CN:
       accepted_html: "{{icon}} 由 <span class='by'><a href data-user-card='{{username_lower}}'>{{username}}</a></span> 在 <a href='{{post_path}}'>#{{post_number}}</a> 楼解决"
       accepted_notification: "<p><span>{{username}}</span> {{description}}</p>"
       topic_status_filter:
-        all: "全部"
+        all: "全部状态"
         solved: "已解决"
         unsolved: "未解决"
     topic_statuses:
